@@ -9,6 +9,32 @@
 
 ```bash
 AIFFEL_quest_cr
+├── Exploration
+│   ├── Ex01
+│   │   ├── .ipynb
+│   │   └── README.md
+.       .
+.       .
+.       .
+│   └── Ex07
+│       ├── .ipynb
+│       └── README.md
+.
+.
+.
+├── GoingDeeper
+│   ├── GoingDeeper01
+│   │	├── .ipynb
+│   │	└── README.md
+.	.
+.	.
+.	.
+│   └── GoingDeeper18
+│       ├── .ipynb
+│       └── README.md.
+.
+.
+. 
 ├── MainQuest
 │   ├── Quest01
 │   │   ├── .ipynb
@@ -16,18 +42,7 @@ AIFFEL_quest_cr
 .       .
 .       .
 .       .
-│   └── Quest08
-│       ├── .ipynb
-│       └── README.md
-.
-.
-.
-└── Exploration
-    ├── Ex01
-    .
-    .
-    .
-    └── Ex07
-        ├── .ipynb
-        └── README.md
+    └── Quest05
+	├── .ipynb
+       	└── README.md
 ```
